@@ -1,0 +1,10 @@
+C:\Users\bijelical\AppData\Local\Temporary Projects\theMazeGame\obj\x86\Release\theMazeGame.Properties.Resources.resources
+C:\Users\bijelical\AppData\Local\Temporary Projects\theMazeGame\obj\x86\Release\theMazeGame.theMazeGame.resources
+C:\Users\bijelical\AppData\Local\Temporary Projects\theMazeGame\obj\x86\Release\theMazeGame.csproj.GenerateResource.Cache
+D:\DATA\bijelical\theMazeGame\theMazeGame\bin\Release\theMazeGame.exe
+D:\DATA\bijelical\theMazeGame\theMazeGame\bin\Release\theMazeGame.pdb
+D:\DATA\bijelical\theMazeGame\theMazeGame\obj\x86\Release\theMazeGame.Properties.Resources.resources
+D:\DATA\bijelical\theMazeGame\theMazeGame\obj\x86\Release\theMazeGame.theMazeGame.resources
+D:\DATA\bijelical\theMazeGame\theMazeGame\obj\x86\Release\theMazeGame.csproj.GenerateResource.Cache
+D:\DATA\bijelical\theMazeGame\theMazeGame\obj\x86\Release\theMazeGame.exe
+D:\DATA\bijelical\theMazeGame\theMazeGame\obj\x86\Release\theMazeGame.pdb
